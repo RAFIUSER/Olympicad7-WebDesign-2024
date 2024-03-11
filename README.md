@@ -1,6 +1,8 @@
-# Olympicad7-2024
+# Olympicad7-2024-WebDesign
 Kgs. M. Rafiussyakban
 
-This project i create as a way to vent because I was dissatisfied with my project competition's result
+Gabut, Jadi di upload ajah. 
+Udah di revisi juga nambahin animasi.
+Semoga bermanfaat 😊
 
 </>
