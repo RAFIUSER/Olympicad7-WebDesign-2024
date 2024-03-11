@@ -48,7 +48,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 30px;
+    padding: 50px 30px;
     text-align: justify;
 }
 
@@ -73,7 +73,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 30px;
+    padding: 50px 30px;
     text-align: justify;
     color: white;
 }
@@ -537,12 +537,17 @@
 
     .isi-program{
         flex-direction: column;
-        text-align: center;
+    }
+
+    .isi-program p{
+        text-align: justify;
     }
 
     .flex-footer{
         flex-direction: column;
+        justify-content: center;
     }
+
     .flex-footer .flex-item img{
         width: 50%;
     }
@@ -560,10 +565,14 @@
     }
 
     .sejarah-singkat img{
-        width: 60%;    
+        width: 100%;    
     }
 
     .ismuba-index img{
-        width: 60%;  
+        width: 100%;  
     }
-}
+
+    #img-mobile{
+        margin: 20px;
+    }
+}   

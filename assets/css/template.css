@@ -103,6 +103,8 @@
     display: flex;
     justify-content: center;
     padding: 10px;
+    overflow: hidden;
+    margin: 20px;
 }
 
 .footer .flex-footer .flex-item{
@@ -111,12 +113,16 @@
 }
 
 .footer .flex-footer .flex-item img{
-    width: 100%;
+    width: 80%;
 }
 
 .footer .flex-footer .flex-item h1{
     color: #5f5fff;
     margin-bottom: 10px;
+}
+
+#img-mobile{
+    text-align: center;
 }
 
 @media screen and (max-width: 900px) {
