@@ -2,7 +2,7 @@
 Kgs. M. Rafiussyakban
 
 Gabut, Jadi di upload ajah. 
-Udah di revisi juga nambahin animasi.
+Udah di revisi juga nambahin animasi, Sekalian belajar Github.
 Semoga bermanfaat 😊
 
 </>
